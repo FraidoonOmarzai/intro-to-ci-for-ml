@@ -1,2 +1,6 @@
-# Wine quality prediction
-Modelling a Kaggle dataset of [red wine properties and quality ratings](https://www.kaggle.com/uciml/red-wine-quality-cortez-et-al-2009). 
+# Intro to CI for ML
+
+## Steps:
+*   git the dataset and train the model
+*   create readme.md file
+*   create the requirements.txt and specify the required libraries+onstall it
