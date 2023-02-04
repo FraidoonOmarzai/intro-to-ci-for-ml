@@ -2,3 +2,5 @@ pandas
 matplotlib
 seaborn
 numpy
+Python=3.7
+Scikit-learn=1.0
